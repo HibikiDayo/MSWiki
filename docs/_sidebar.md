@@ -1,5 +1,5 @@
 
-* **介绍**
+* [**介绍**](/intro/)
     * [简介](/intro/README.md)
     * [历史](/intro/history.md)
     * [成员](/intro/members.md)
@@ -10,3 +10,5 @@
     * [🐟🐟](/meme/yxh.md)
     * [🐱🐱](/meme/bluecat.md)
    
+* [**活动**](/activity/)
+    
