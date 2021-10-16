@@ -7,7 +7,7 @@
 * 制作于 2020.4-2020.7
 
 * <div  align="center">    
-   <img src="../_media/intro/works/fzszmc/1.png" width = "500" height = "313" alt="1" align=center />
+   <img src="../_media/intro/works/fzszmc/1.png" width = "500" height = "313" alt="1" align=center>
    </div>
 
 ***
@@ -20,20 +20,20 @@
 * 游戏菜单
 
 <div  align="center">    
-   <img src="../_media/intro/works/LegendOfIsaac/1.png" width = "500" height = "344" alt="1" align=center />
+   <img src="../_media/intro/works/LegendOfIsaac/1.png" width = "500" height = "344" alt="1" align=center>
      </div>
 
   * 游戏地图
 
   <div  align="center">    
-     <img src="../_media/intro/works/LegendOfIsaac/2.png" width = "500" height = "344" alt="1" align=center />
+     <img src="../_media/intro/works/LegendOfIsaac/2.png" width = "500" height = "344" alt="1" align=center>
        </div>
 
 
   * 游戏画面
 
   <div  align="center">    
-     <img src="../_media/intro/works/LegendOfIsaac/3.png" width = "600" height = "300" alt="1" align=center />
+     <img src="../_media/intro/works/LegendOfIsaac/3.png" width = "600" height = "300" alt="1" align=center>
        </div>
 
 ***
@@ -47,5 +47,5 @@
 * 详细简介&Github：[AIChallenger](https://github.com/YXHXianYu/AIChallenger)
 
 *   <div  align="center">    
-       <img src="../_media/intro/works/aichallenger/1.png" width = "500" height = "292" alt="1" align=center />
+       <img src="../_media/intro/works/aichallenger/1.png" width = "500" height = "292" alt="1" align=center>
          </div>
