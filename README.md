@@ -3,7 +3,7 @@
 <img src="./docs/_media/grey_background.png" align="right" width="300" />
 
 
-This is the official wiki for MS Games Studios.   
+This is the official wiki for **MS Game Studio**.   
 Its current purpose is to record the studio's history, profiles of its members, and their respective works.  
 Various types of information are stored in the repository in the form of documents(mostly .md).
   
