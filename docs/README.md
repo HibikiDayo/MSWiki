@@ -1,6 +1,6 @@
 # MS Wiki
 
-<img src="./docs/_media/grey_background.png" align="right" width="300" />
+<img src="./_media/grey_background.png" align="right" width="300" />
 
 
 This is the official wiki for MS Games Studios.   
