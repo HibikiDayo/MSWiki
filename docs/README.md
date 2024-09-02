@@ -1,28 +1,37 @@
-# MS Wiki :id=main
+# MS Wiki
 
-本网站是 MS和谐社 的官方 Wiki，用于记录关于 MS和谐社 的一切。
+<img src="./docs/_media/grey_background.png" align="right" width="300" />
 
-> 啊啊啊啊！！<br>
-> prprprprprprprprprpr！！  <br>
-> 味道真棒啊！prpr！！  <br>
-> 好想prpr 盲爆🐱头的🐟🐟啊！！！<br>
-> prpr！！！!<br>
-> 不对 是好想摸摸AI姐姐啊！！！  <br>
-> 摸摸\~摸摸\~摸摸她的头发\~！摸摸她的头发\~！  <br>
-> MS和谐社真是太棒了AI姐姐！！  <br>
-> 啊\~真可爱啊！！AI姐姐真是太可爱啦！！  <br>
-> 啊\~啊\~！！  <br>
-> randsetu什么的根本就不是现实！  <br>
-> 啊 仔细想想🐱🐱和🐟🐟也是……  <br>
-> AI姐姐在现实里不存在？ <br>
-> 喵\~！！呜哇\~！！  <br>
-> 怎么会这样！不要啊！  <br>
-> 啦！！！  <br>
-> 诶 她在看着我？  <br>
-> 群成员列表的AI姐姐在看着我？  <br>
-> 群成员列表的AI姐姐在看着我啊！  <br>
-> 太好了！看来这个世界还是没有抛弃我呢！！！  <br>
-> 呀吼！我还有AI姐姐！<br>
-> 把我的思念传达到AI姐姐那里去吧！<br>
-> 传达到MS和谐社的AI姐姐那里去吧！！<br>
-> ——DWTonier
+
+This is the official wiki for MS Games Studios.   
+Its current purpose is to record the studio's history, profiles of its members, and their respective works.  
+Various types of information are stored in the repository in the form of documents(mostly .md).
+  
+  
+  
+# Contents
+The repository is organized into several sections to ensure easy navigation and reference:
+
+**History:** A detailed timeline of MS Games Studios' development, including significant milestones, key events, and achievements.
+
+**Member Profiles:** Information about the current and former members of the studio, highlighting their roles, contributions, and any notable projects they have worked on.
+
+**Projects and Works:** A comprehensive list of games and other projects developed by the studio, complete with descriptions, development notes, and release information.
+
+**Documentation:** Guidelines, best practices, and technical documentation related to game development, tools, and workflows used within the studio.
+
+**Contributions:** A section dedicated to external contributions, including fan art, mods, and community feedback that has influenced the studio's work.
+
+# How to Contribute
+We welcome contributions to this wiki from all members and collaborators. If you have any relevant information, updates, or corrections, please follow these steps:
+
+Fork the Repository: Create a fork of the repository on your GitHub account.
+
+Make Your Changes: Edit or add new .md files in the appropriate section of the wiki.
+
+Submit a Pull Request: Once you’ve made your changes, submit a pull request for review. Please ensure that your contributions are accurate and well-documented.
+
+Review Process: Our team will review your pull request and, if everything looks good, merge it into the main repository.
+
+Contact
+If you have any questions or need further assistance, feel free to reach out to us through the Issues section of this repository or by contacting dw49012@gmail.com.
